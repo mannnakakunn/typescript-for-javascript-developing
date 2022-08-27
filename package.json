@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mannnakakunn/typescript-for-javascript-developing/issues"
   },
-  "homepage": "https://github.com/mannnakakunn/typescript-for-javascript-developing#readme"
+  "homepage": "https://github.com/mannnakakunn/typescript-for-javascript-developing#readme",
+  "dependencies": {
+    "save-dev": "^0.0.1-security",
+    "typescript": "^3.7.5"
+  }
 }
